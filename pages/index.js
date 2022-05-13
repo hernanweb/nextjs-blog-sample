@@ -21,7 +21,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hey there! </p>
+        <p>Hey there! 👋</p>
         <p>
           This is a sample of a Next.js website  - You can visit my blog{' '}
           <a href="https://hernanweb.com" target="_blank">here</a> 🤘.
